@@ -6,7 +6,7 @@ Just trying to make some cool things on the Internet.
 - 📚 Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
 - ⚡ Fun fact: I do boxing and like talking about JSONs
 
-## Stats 🐐
+## Stats 👾
 ![Ericks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickkbentz&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
 
 ## Spotify 🎧

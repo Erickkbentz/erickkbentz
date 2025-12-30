@@ -7,4 +7,4 @@ Just trying to make some cool things on the Internet and be a good human.
 - ⚡ Fun fact: I like running and learning everything related to tech and personal health.
 
 ## Stats 👾
-![Ericks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickkbentz&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
+![Ericks's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=erickkbentz&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
